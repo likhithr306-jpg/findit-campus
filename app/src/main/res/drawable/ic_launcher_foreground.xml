@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Primary Gold AI Sparkle -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,23.5 C78,26.5 80.5,29 83.5,29 C80.5,29 78,31.5 78,34.5 C78,31.5 75.5,29 72.5,29 C75.5,29 78,26.5 78,23.5 Z" />
+
+    <!-- Secondary Cyan AI Sparkle -->
+    <path
+        android:fillColor="#78D1FF"
+        android:pathData="M70,21 C70,22.6 71.4,24 73,24 C71.4,24 70,25.4 70,27 C70,25.4 68.6,24 67,24 C68.6,24 70,22.6 70,21 Z" />
+
+    <!-- Location Pin Main Body (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,23 C39.85,23 30,32.85 30,45 C30,58.2 42,72 52,83 C62,72 74,58.2 74,45 C74,32.85 64.15,23 52,23 Z" />
+
+    <!-- Magnifying Glass Handle -->
+    <path
+        android:fillColor="#006689"
+        android:pathData="M59.2,55.8 L69.2,65.8 C70.2,66.8 71.8,66.8 72.8,65.8 C73.8,64.8 73.8,63.2 72.8,62.2 L62.8,52.2 Z" />
+
+    <!-- Search Lens Outer Ring -->
+    <path
+        android:fillColor="#006689"
+        android:pathData="M52,32 C59.18,32 65,37.82 65,45 C65,52.18 59.18,58 52,58 C44.82,58 39,52.18 39,45 C39,37.82 44.82,32 52,32 Z M52,37 C47.58,37 44,40.58 44,45 C44,49.42 47.58,53 52,53 C56.42,53 60,49.42 60,45 C60,40.58 56.42,37 52,37 Z" />
+
+    <!-- Lens Glass Fill -->
+    <path
+        android:fillColor="#C3E8FF"
+        android:pathData="M52,37 C56.42,37 60,40.58 60,45 C60,49.42 56.42,53 52,53 C47.58,53 44,49.42 44,45 C44,40.58 47.58,37 52,37 Z" />
+
+    <!-- Found Item Checkmark Badge -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M46.5,43.5 L50,47 L57.5,39.5 L59,41 L50,50 L45,45 Z" />
+
+</vector>
